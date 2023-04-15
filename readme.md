@@ -6,11 +6,6 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + MySQL Workbench
 + Tableau Public
 
-### Live Demo
-+ [view Project Details on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
-
-![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
-
 ## Projects
 **SQL - MySQL for Data Analytics and Business Intelligence**: data analysis and data visualizations for answering business related questions for management including,
 + What is breakdown between the male and female employees working in the company each year, starting from 1990?
